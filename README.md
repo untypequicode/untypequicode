@@ -1,6 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <img src="img/cover.svg" alt="untypequicode" height="200" style="margin-right: 20px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=untypequicode&show_icons=true&theme=graywhite" alt="Github Stats" />
+</p>
+
+<p>
+  <strong>Passionate developer of AI, cybersecurity and cryptography. Creator of mobile apps, mini-games and security programs. Check out my projects on GitHub.
+</p>
 
 <!--
+### Hi there 👋
+
 **untypequicode/untypequicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
