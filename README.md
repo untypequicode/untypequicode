@@ -8,5 +8,5 @@
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=untypequicode&show_icons=true&theme=transparent&count_private=true" alt="Github Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=untypequicode&layout=compact&langs_count=8&theme=transparent" alt="Github Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=untypequicode&layout=compact&langs_count=8&theme=transparent&orgs=Iuris-tech,Les-4-fantastiques" alt="Github Languages" />
 </p>
