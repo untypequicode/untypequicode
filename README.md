@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/background.svg" alt="untypequicode" height="200" style="margin-right: 20px"/>
+  <img src="img/background.svg" alt="untypequicode" width=95%/>
 </p>
 
 <p align="center">
