@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/background.svg" alt="untypequicode" height="200" style="margin-right: 20px"/>
+  <img src="img/background.svg" alt="untypequicode" width=95%/>
 </p>
 
 <p align="center">
@@ -8,5 +8,5 @@
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=untypequicode&show_icons=true&theme=transparent&count_private=true" alt="Github Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=untypequicode&layout=compact&langs_count=8&theme=transparent" alt="Github Languages" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=untypequicode&theme=transparent&langs_count=10&show_icons=true&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Github Languages" />
 </p>
