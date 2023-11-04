@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Bonjour, je m'appelle Ethan Facca et je suis un étudiant en cursus master en ingénierie dans le domaine de l'optimisation mathématique et algorithmes à l'université de Bordeaux.
+  <strong>Bonjour, je m'appelle Ethan Facca et je suis étudiant en cursus master en ingénierie dans le domaine de l'optimisation mathématique et algorithmes à l'université de Bordeaux.
     Passionné par le développement informatique, je crée des programmes dans le domaine de l'optimisation en utilisant Python et C++.
     J'aime relever des défis, apprendre de nouvelles technologies et travailler en équipe.
 </p>
