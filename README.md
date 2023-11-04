@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <strong>Hello, I'm Ethan Facca, a high school student passionate about computer development. I create Android apps and secure systems using Python, C++, and Kotlin. I enjoy tackling challenges, learning new technologies, and working in a team. I'm open to feedback and suggestions from my teammates.
+  <strong>Bonjour, je m'appelle Ethan Facca et je suis un étudiant en cursus master en ingénierie dans le domaine de l'optimisation mathématique et algorithmes à l'université de Bordeaux.
+    Passionné par le développement informatique, je crée des programmes dans le domaine de l'optimisation en utilisant Python et C++.
+    J'aime relever des défis, apprendre de nouvelles technologies et travailler en équipe.
 </p>
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
