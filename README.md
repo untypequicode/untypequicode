@@ -20,4 +20,10 @@
   <a href="https://untypequicode.github.io" target="_blank">
     <img height=175 align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=untypequicode&langs_count=20&locale=fr&bg_color=1B273D&title_color=00abf0&text_color=ededed&icon_color=00abf0&hide_border=true&langs_count=10&show_icons=true&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Github Languages" />
   </a>
+  
+  <!--
+  <a href="https://untypequicode.github.io" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=untypequicode\&layout=compact" />
+  </a>
+  -->
 </p>
