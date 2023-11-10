@@ -23,7 +23,7 @@
   
   <!--
   <a href="https://untypequicode.github.io" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=untypequicode\&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=untypequicode\&layout=compact&locale=fr&bg_color=1B273D&title_color=00abf0&text_color=ededed&icon_color=00abf0&hide_border=true" />
   </a>
   -->
 </p>
