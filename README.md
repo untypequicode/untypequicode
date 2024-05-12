@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Bonjour, je m'appelle Ethan Facca et je suis étudiant en cursus master en ingénierie dans le domaine de l’optimisation mathématiques et algorithmes à l’université de Bordeaux.
-    Passionné par le développement informatique, j’utilise principalement en Python, C++, HTML et CSS.
+    Passionné par le développement informatique, j’utilise principalement Python, C++, HTML et CSS.
     J’aime relever des défis, apprendre de nouvelles technologies et travailler en équipe.
 </p>
     
